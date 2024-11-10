@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Recyclerview Binding</string>
+    <string name="simple">Simple</string>
+    <string name="endless">Endless</string>
+</resources>
