@@ -1,0 +1,3 @@
+<resources>
+    <string name="app_name">Quotes App using Room and Retrofit MVVM</string>
+</resources>
